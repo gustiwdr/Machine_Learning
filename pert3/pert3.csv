@@ -1,0 +1,11 @@
+transaction_id,timestamp,amount,currency,merchant,category
+1,2024-04-01 08:12:45,50.00,USD,Starbucks,
+2,2024-04-01 12:30:18,25.00,USD,Walmart,Groceries
+3,2024-04-02 14:55:37,,USD,Amazon,Online Shopping
+4,2024-04-03 09:20:04,75.00,USD,Netflix,
+5,2024-04-03 13:45:22,20.00,USD,McDonald's,Food
+6,2024-04-04 18:10:50,45.00,USD,Target,Shopping
+7,2024-04-05 10:05:15,60.00,USD,Shell,Gas
+8,2024-04-05 15:30:42,,USD,Apple,Electronics
+9,2024-04-06 09:40:27,35.00,USD,Starbucks,Coffee
+10,2024-04-06 12:15:55,50.00,USD,Amazon,Online Shopping
